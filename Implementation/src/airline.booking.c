@@ -1,4 +1,4 @@
-#include "airline_booking.c"
+#include "airline.h"
 #include "airline_booking.h"
 #define size 5
 #include "assert.h"
