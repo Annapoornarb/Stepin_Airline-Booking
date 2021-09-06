@@ -1,6 +1,6 @@
 /**
  * @file airline_booking.c
- * @author your name (you@domain.com)
+ * @author Annapurna Bisanalli
  * @brief 
  * @version 0.1
  * @date 2021-09-06
