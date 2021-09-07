@@ -22,9 +22,15 @@ Airline Booking systems has a set of benefits. Here are few of them:
 * Update personal information(name,age).
 * Stores the entire customer database.
 
+![Description](https://github.com/Annapoornarb/Stepin_Airline-Booking/blob/main/Requirements/design.png)
+
 ### Explaination
 * Airline Booking Application have few inbuilt features like:
     - Reserve airline.
     - Cancel flight.
     - Display airline records.
     - Exit.
+
+## Swot Analysis
+
+![Description](https://github.com/Annapoornarb/Stepin_Airline-Booking/blob/main/Requirements/swot.png)
