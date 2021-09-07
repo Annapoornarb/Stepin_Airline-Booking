@@ -17,4 +17,4 @@
 
 * Level One DFD:
   
-![LevelOne](https://github.com/arpithakori/LTTS-mini-project/blob/main/2_Design/levelone.png)
+![LevelOne](https://github.com/Annapoornarb/Stepin_Airline-Booking/blob/main/Architecture/levelone.png)
