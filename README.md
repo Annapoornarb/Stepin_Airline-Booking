@@ -1,4 +1,7 @@
+# LTTS-mini-project
 # Stepin_Airline-Booking
+![Banner](https://github.com/arpithakori/LTTS-mini-project/blob/main/1_Requirements/banner.png)
+
 # About projects 
 Talking about the features of Airline Booking, the system asks for the passenger’s information such as name, passport no, email id. After all these procedures,  a reservation is done. As a reservation proof, the system provides seat number.  In order to check tickets, the user has to provide seat no. then only the system check for the respective tickets in the database and displays a result. Canceling a flight reservation is easy through the system, the user just has to provide their seat number.
 # Features
