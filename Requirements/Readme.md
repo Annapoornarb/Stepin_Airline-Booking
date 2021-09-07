@@ -16,4 +16,15 @@ Airline Booking systems has a set of benefits. Here are few of them:
 * Real-Time Update.
 
 ## Defining Our System
-* 
+* Add airline database.
+* Add/delete specific flight.
+* View its own flight,customers of specific flight and update airline info.
+* Update personal information(name,age).
+* Stores the entire customer database.
+
+### Explaination
+* Airline Booking Application have few inbuilt features like:
+    - Reserve airline.
+    - Cancel flight.
+    - Display airline records.
+    - Exit.
