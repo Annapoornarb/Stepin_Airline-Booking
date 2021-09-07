@@ -13,7 +13,7 @@
 
 * Level Zero DFD:
   
-![LevelZero](https://github.com/arpithakori/LTTS-mini-project/blob/main/2_Design/levelzero.png)
+![LevelZero](https://github.com/Annapoornarb/Stepin_Airline-Booking/blob/main/Architecture/levelzero.png)
 
 * Level One DFD:
   
