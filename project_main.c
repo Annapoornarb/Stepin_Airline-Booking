@@ -10,23 +10,6 @@
  */
 #include "airline_booking.h"
 #include<stdio.h>
-#include "unity.h"
-
-void setUp()
-{
-
-}
-void tearDown()
-{
-
-}
-void test_cancel(void)
-{
-   int r1=-1;
-    TEST_ASSERT_EQUAL(-1,cancel(r1));
-    TEST_ASSERT_EQUAL(-2,cancel(r1));
-    TEST_ASSERT_EQUAL(-1,cancel(r1));
-}
 
 int main(int argc, char **argv)
 {
@@ -35,9 +18,6 @@ int main(int argc, char **argv)
 	rear=NULL;
 	front=NULL;
 
-	UNITY_BEGIN();
-    RUN_TEST(test_cancel);
-    UNITY_END();
     
 	printf("\t\t\t***AIRLINE BOOKING***\t\t\t\t\n");
 	int ch =0;

@@ -1,3 +1,13 @@
+/**
+ * @file project_main.h
+ * @author Annapurna Bisanalli
+ * @brief 
+ * @version 0.1
+ * @date 2021-09-06
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
 #include "airline_booking.h"
 #include<stdio.h>
 #include "unity.h"
@@ -18,14 +28,15 @@ void test_cancel(void)
     TEST_ASSERT_EQUAL(-1,cancel(r1));
 }
 
+
 int main(int argc, char **argv)
 {
 	int choice, status=0,canc=0, reg=0;
 	start=NULL;
 	rear=NULL;
 	front=NULL;
-
-	UNITY_BEGIN();
+   
+   UNITY_BEGIN();
     RUN_TEST(test_cancel);
     UNITY_END();
     
@@ -64,7 +75,6 @@ int main(int argc, char **argv)
 	    case 4: exit(0);
 	    break;
 	    default: printf("\nWrong choice!\n");
-
 
 
 
